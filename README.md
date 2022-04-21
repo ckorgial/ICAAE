@@ -1,2 +1,2 @@
-# LIME-CAAE
-Pytorch Implementation of the Conditional Adversarial Autoencoder using LIME
+# Face Aging by Explainable Conditional Adversarial Autoencoder using LIME
+Pytorch Implementation of the Explainable Conditional Adversarial Autoencoder using LIME
