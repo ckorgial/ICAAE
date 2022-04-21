@@ -131,7 +131,7 @@ if __name__ == '__main__':
             should_plot=args.sp,
             where_to_save=results_dest,
             models_saving=args.models_saving,
-            explainable=True,
+            explainable=True, # Keep True for enabling the xAI-System - Change to False for the Original CAAE !
             explanation_type='lime'
         )
 
