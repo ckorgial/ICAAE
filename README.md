@@ -42,4 +42,4 @@ python mainCAAEsplit_ver2_lime.py --mode test --load checkpoints/epoch200 --inpu
 
 # Authors
 
-***Christos Korgialas and Constantine Kotropoulos***
+***Christos Korgialas***
