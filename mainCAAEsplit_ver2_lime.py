@@ -52,7 +52,7 @@ if __name__ == '__main__':
     parser.add_argument('--mode', choices=['train', 'test'], default='train')
 
     # train params
-    parser.add_argument('--epochs', '-e', default=1, type=int)
+    parser.add_argument('--epochs', '-e', default=200, type=int)
     parser.add_argument(
         '--models-saving',
         '--ms',
