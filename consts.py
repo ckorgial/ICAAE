@@ -1,5 +1,5 @@
 import re
-EPOCHS = 100
+EPOCHS = 200
 IMAGE_LENGTH = 128
 IMAGE_DEPTH = 3
 
