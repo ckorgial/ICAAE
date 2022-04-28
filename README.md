@@ -40,6 +40,6 @@ python mainCAAEsplit_ver2_lime.py --mode train --epochs 200 --input data/CACD_UT
 python mainCAAEsplit_ver2_lime.py --mode test --load checkpoints/epoch200 --input data/FGNET --output results/checkpoints/epoch200 --age <0 or 1> --gender <0 or 1>
 ```
 
-# Authors
+# Author
 
 ***Christos Korgialas***
