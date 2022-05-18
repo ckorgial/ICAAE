@@ -26,7 +26,7 @@ The control and change of the Explainable Artificial Intelligence system is achi
 # Virtual Environment
 
 ```shell
-conda create --name <env> --file requirements.txt
+conda create --name limecaae --file requirements.txt
 ```
 
 # Training
