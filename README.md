@@ -32,12 +32,12 @@ conda create --name <env> --file requirements.txt
 # Training
 
 ```shell
-python mainCAAEsplit_ver2_lime.py --mode train --epochs 200 --input data/CACD_UTKFace --output checkpoints
+python mainCAAEsplit_ver2_lime.py --mode train --epochs 140 --input data/CACD_UTKFace --output checkpoints
 ```
 # Testing 
 
 ```shell
-python mainCAAEsplit_ver2_lime.py --mode test --load checkpoints/epoch200 --input data/FGNET --output results/checkpoints/epoch200 --age <0 or 1> --gender <0 or 1>
+python mainCAAEsplit_ver2_lime.py --mode test --load checkpoints/epoch140 --input data/FGNET --output results/checkpoints/epoch140 --age <0 or 1> --gender <0 or 1>
 ```
 
 # Author
