@@ -37,7 +37,7 @@ python mainCAAEsplit_ver2_lime.py --mode train --epochs 140 --input data/CACD_UT
 # Testing 
 
 ```shell
-python mainCAAEsplit_ver2_lime.py --mode test --load checkpoints/epoch140 --input data/FGNET --output results/checkpoints/epoch140 --age <0 or 1> --gender <0 or 1>
+python mainCAAEsplit_ver2_lime.py --mode test --load checkpoints/epoch140 --input data/FGNET --output results/checkpoints/epoch140 --age <0 to 6> --gender <0 or 1>
 ```
 
 # Author
