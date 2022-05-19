@@ -29,6 +29,10 @@ The control and change of the Explainable Artificial Intelligence system is achi
 conda create --name limecaae --file requirements.txt
 ```
 
+```shell
+conda activate limecaae
+```
+
 # Training
 
 ```shell
