@@ -66,4 +66,6 @@ LIME-CAAE
 
 # Author
 
-***Christos Korgialas***
+Feel free to DM me for any issue
+
+***Christos Korgialas (ckorgial@csd.auth.gr)***
