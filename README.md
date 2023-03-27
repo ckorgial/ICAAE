@@ -4,9 +4,7 @@ This repository was created with the aim of incorporating an Explanatory System 
 
 # Master Thesis
 
-This code was used to implement the experiments of my Master Thesis in Digital Media - Computational Intelligence.
-
-[Master Thesis](https://ikee.lib.auth.gr/record/339989/files/GRI-2022-35536.pdf)
+This code was used to implement the experiments of my Master Thesis **Face Aging by Conditional Adversarial Autoencoders** in Digital Media - Computational Intelligence.
 
 # Dataset
 
