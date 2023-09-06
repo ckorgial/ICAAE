@@ -1,4 +1,4 @@
-#  INTERPRETABLE FACE AGING: ENHANCING CONDITIONAL ADVERSARIAL AUTOENCODERS WITH LIME EXPLANATIONS
+#  Interpretable Face Aging: Enhancing Conditional Adversarial Autoencoders with LIME Explanations
 
 This repository was created with the aim of incorporating an Explanatory System in the Conditional Adversarial Autoencoder (CAAE). The main source of inspiration was the paper [Age Progression/Regressionby Conditional Adversarial Autoencoder](https://openaccess.thecvf.com/content_cvpr_2017/html/Zhang_Age_ProgressionRegression_by_CVPR_2017_paper.html) proposed by (Zhang, Song, et al.). Moreover, the paper [xAI-GAN: Enhancing Generative Adversarial Networks via Explainable AI Systems](https://arxiv.org/abs/2002.10438) proposed by (Nagisetyy, Graves, et al.) formed the base of adding xAI methods in CAAE. Endly, thanks to Mattan Serry and the [AgeProgression](https://github.com/mattans/AgeProgression) work, we devoloped our code in PyTorch.
 
