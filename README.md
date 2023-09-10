@@ -21,11 +21,11 @@ The control and change of the Explainable Artificial Intelligence system is achi
 # Virtual Environment
 
 ```shell
-conda create -n limecaae python=3.7 anaconda
+conda create -n icaae python=3.7 anaconda
 ```
 
 ```shell
-conda activate limecaae
+conda activate icaae
 ```
 
 ```shell
