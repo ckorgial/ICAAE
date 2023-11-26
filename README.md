@@ -65,6 +65,6 @@ LIME-CAAE
 
 # Author
 
-Feel free to send us a message for any issue.
+Feel free to send me a message for any issue.
 
-***Christos Korgialas (ckorgial@csd.auth.gr) and Evangelia Pantraki (epantrak@csd.auth.gr)***
+***Christos Korgialas (ckorgial@csd.auth.gr)***
